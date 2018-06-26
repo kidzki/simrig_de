@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My Custom SimRig</title>
+    <link>https://simrig.de/post/</link>
+    <description>Recent content in Posts on My Custom SimRig</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy; 2019. All rights reserved.</copyright>
+    <lastBuildDate>Sat, 23 Jun 2018 03:34:33 +0200</lastBuildDate>
+    
+	<atom:link href="https://simrig.de/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Es geht los</title>
+      <link>https://simrig.de/post/es_geht_los/</link>
+      <pubDate>Sat, 23 Jun 2018 03:34:33 +0200</pubDate>
+      
+      <guid>https://simrig.de/post/es_geht_los/</guid>
+      <description>Knapp eine Woche ist jetzt vergangen und ich bin viel schlauer geworden. Ich habe nun eine viel bessere Vorstellung über das ganze Projekt.
+Vor ein paar Tagen bin ich über ITEM gestolpert. Quasi dem Erfinder von Aluminuiumprofilen. Auf deren Seite gibt es viele Informationen und auch einen Konfigurator über den ich mein komplettes Rig konstruieren kann. Das Highlight dieses Konfigurators ist, dass ich mir direkt die CAD-Dateien, Zeichnungen, Materiallisten, usw. erstellen lassen und auch runterladen kann.</description>
+    </item>
+    
+    <item>
+      <title>Mein SimRig</title>
+      <link>https://simrig.de/post/hello_project/</link>
+      <pubDate>Mon, 18 Jun 2018 12:29:21 +0200</pubDate>
+      
+      <guid>https://simrig.de/post/hello_project/</guid>
+      <description>Los gehts Hallo zusammen und herzlich Willkommen,
+zu meiner Projektdokumentation. Zuerst möchte ich mich vorstellen und im nachhinen euch erklären worum es hier geht und was das ganze soll.
+Mein Name ist Michael Kick, habe vor ein paar Tagen mein 26. Lebenjahr erreicht und wohne zurzeit in Darmstadt. Ich bin gelernter Industriemechaniker der Fachrichtung Anlangen- und Maschinenbau, sowie Fachinformatiker für Anwendungsentwicklung. Wie es dazu kam findet ihr in der &amp;ldquo;About Me&amp;rdquo; Sektion.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://simrig.de/post/es_geht_los/</loc>
+    <lastmod>2018-06-23T03:34:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simrig.de/post/hello_project/</loc>
+    <lastmod>2018-06-18T12:29:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simrig.de/</loc>
+    <lastmod>2018-06-23T03:34:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://simrig.de/post/</loc>
+    <lastmod>2018-06-23T03:34:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://simrig.de/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://simrig.de/topics/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
